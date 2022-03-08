@@ -1,6 +1,6 @@
 "use strict";
 
-function click() {
+function clicked() {
 
   /* Obtiene el limite inferior */
   let inf = parseFloat(document.getElementById("inf-limit").value);
@@ -12,6 +12,3 @@ function click() {
   /* TODO */
 
 }
-
-/* Llama la funcion click al clickear del boton */
-document.getElementById("button").addEventListener("click", click);

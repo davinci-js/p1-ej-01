@@ -1,4 +1,4 @@
-# ejercicio-02
+# ejercicio-01
 
 ## Consigna
 

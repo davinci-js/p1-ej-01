@@ -15,9 +15,9 @@
 - Modificar este `README.md` con este contenido:
 
 ```markdown
-### Alumno
+### Alumno: ...
 
-#### Comision
+#### Comision: ...
 ```
 
 - Subir los archivos `index.html`, `index.js` y `README.md`

@@ -8,7 +8,16 @@
 
 3- Si el numero no esta en rango, informar si el numero es impar (solamente)
 
-## Requisitos
+## Entrega
 
-- Usar sentencias `if-else`
-- Usar operadores logicos `AND`, `OR`, `NOT`
+- Clonar este repositorio localmente
+- Crear un repositorio personal con el nombre `dw-p1-01`
+- Modificar este `README.md` con este contenido:
+
+```markdown
+### Alumno
+
+#### Comision
+```
+
+- Subir los archivos `index.html`, `index.js` y `README.md`
